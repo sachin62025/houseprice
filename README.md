@@ -32,5 +32,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sachin62025/california-house-price-prediction.git
-   cd california-house-price-prediction
+   https://github.com/sachin62025/houseprice.git
