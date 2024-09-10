@@ -1,5 +1,3 @@
-# houseprice
-house price prediction
 # California House Price Prediction
 
 This project predicts house prices in California based on various features using machine learning algorithms. It involves data preprocessing, exploratory data analysis, model selection, evaluation, and deployment.
